@@ -116,7 +116,7 @@
     allowedStates:
     - Dead
   - type: Inventory
-    templateId: diona
+    #templateId: diona #Monolith Change: Adds Boot Slots so Dionae can wear Modsuits
     femaleDisplacements:
       jumpsuit:
         sizeMaps:
@@ -135,7 +135,7 @@
   - type: HumanoidAppearance
     species: Diona
   - type: Inventory
-    templateId: diona
+    #templateId: diona #Monolith Change: Adds Boot Slots so Dionae can wear Modsuits
     femaleDisplacements:
       jumpsuit:
         sizeMaps:
