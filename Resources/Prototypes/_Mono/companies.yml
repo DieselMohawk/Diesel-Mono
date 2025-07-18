@@ -110,8 +110,8 @@
   description: midnight-arms-co-description
   color: "#FF2E2E"
   image: /Textures/_Mono/Companies/MACo.png
-
-
+  
+  
 # Major companies
 
 - type: company
@@ -128,7 +128,7 @@
   name: Aetherion Dynamics
   description: aetherion-dynamics-description
   color: "#7E72B2"
-
+  
 - type: company
   id: HorizonEnergy
   form: Protagonist
@@ -136,6 +136,7 @@
   description: horizon-energy-description
   color: "#69E37F"
   image: /Textures/_Mono/Companies/horizon_energy.png
+
 
 # Minor companies
 
@@ -153,7 +154,7 @@
   name: Civil Defense Militia
   description: civil-defense-milita-description
   color: "#666600"
-
+  
 - type: company
   id: UllmanIndustries
   form: Protagonist
@@ -161,7 +162,7 @@
   description: ullman-industries-description
   color: "#52326A"
   image: /Textures/_Mono/Companies/ullman_industries.png
-
+  
 - type: company
   id: NosskeEienResearchandDevelopment
   form: Protagonist
@@ -178,12 +179,6 @@
   color: "#419E23"
   image: /Textures/_Mono/Companies/BMC.png
 
-- type: company
-  id: paycheckbratva
-  form: Protagonist
-  name: Paycheck Bratva
-  description: paycheck-bratva-description
-  color: "#7a0303"
 
 # Religious groups
 
@@ -202,6 +197,17 @@
   color: "#DEBC50"
   image: /Textures/_Mono/Companies/CMG.png
 
+
+# Black Market Companies
+
+- type: company
+  id: paycheckbratva
+  form: Antagonist
+  name: Paycheck Bratva
+  description: paycheck-bratva-description
+  color: "#7a0303"
+
+  
 # ====Rogue / Antag. Companies====
 - type: company
   id: TheViperGroup
